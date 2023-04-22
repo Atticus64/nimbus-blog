@@ -1,6 +1,6 @@
 ![](../posts/screenshot.png)
 
-# Ryan's Blog
+# Jona's Nimbus Blog
 
 Deployments in less than 10 seconds.
 
