@@ -18,7 +18,7 @@ el fuego :fire: con mi espada de piedra, logre que no se propagara pero en el pr
 me perdi en los alrededores, aunque encontre lana pero se volvio de noche y regrese 
 a la base, entonces concluido eso, quise ir a minar para buscar diamantes :diamonds:.
 
-Por ello les mencione a [Taly](https://github.com/TaliAly) y a [Midnight](https://github.com/TheMidnightShow) 
+Por ello les mencione a [Tali](https://github.com/TaliAly) y a [Midnight](https://github.com/TheMidnightShow) 
 que si me acompañaban a minar a lo que dijeron que si, nos adentramos en la guarida de Mid
 y parecia oscura, aterradora, pero bastante `interesante` parecia una baticueva, 
 me estoy desviando, fuimos a lo mas profundo donde me dijo que buscara diamantes
