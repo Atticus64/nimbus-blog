@@ -38,7 +38,7 @@ _Ya no se si se prepara para una guerra o para conquistar a Tali_
 
 Luego Midnight se reporta que se encuentra excelete, fresco como lechuga y nos manda lo que hizo a 18k de bloques de distancia
 
-![](./assets/mid_chino.png)
+![](./assets/2023-04-23-012321_2554x1074_scrot.png.jpg)
 
 Y eso fue lo que ocurrio el dia de hoy en Stratus, _cambio y fuera_.
 
