@@ -1,15 +1,12 @@
 ---
-title: El patrimonio de nimbus
+title: Dia 1 - El patrimonio de nimbus
 publish_date: 2023-04-21
 ---
 
 # Dia 1 en Nimbus
 
 Querido journal, el dia de hoy pasaron bastantes cosas en el servidor, 
-primeramente me recibieron con mucho entusiasmo y empece mi dia organizando 
-mis cofres esperando que todo estuviera bien.... pero me encuentro con la 
-desagradable sorpresa de que _alguien_ habia robado mi cama
-pero aparentemente ninguno de los compañeros del server había sido.
+primeramente me recibieron con mucho entusiasmo y empece mi dia organizando mis cofres esperando que todo estuviera bien.... pero me encuentro con la desagradable sorpresa de que _alguien_ habia robado mi cama pero aparentemente ninguno de los compañeros del server había sido.
 
 Me pareció muy sospechoso pero prosegui con mi camino, me propuse conseguir
 una nueva cama, por ello me adentre en la densa jungla que esta al lado de nuestra
